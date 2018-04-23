@@ -5,6 +5,7 @@
       <value>
         <JSCodeStyleSettings>
           <option name="FORCE_SEMICOLON_STYLE" value="true" />
+          <option name="FORCE_QUOTE_STYlE" value="true" />
         </JSCodeStyleSettings>
       </value>
     </option>
